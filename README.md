@@ -4,7 +4,7 @@
 If you use the data please cite the following paper:
 > Chau, H., Bana, S., Bouvier, B., Frank, M.: Connecting Higher Education to Workplace Activities and Earnings.
 ```
-@article{Chau2020JAIED,
+@article{Chau2022ConnectHighEd,
   author    = {Hung Chau and
                Sarah H. Bana and
                Baptiste Bouvier and
