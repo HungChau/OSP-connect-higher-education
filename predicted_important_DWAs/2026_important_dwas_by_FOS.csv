@@ -1,321 +1,321 @@
-FOS,rank,old_rank,dwa,increase,
-Accounting,24,30,develop financial plans for clients.,6,
-Agriculture,30,35,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5,
-Agriculture,44,51,develop new or advanced products or production methods.,7,
-Anthropology,24,31,evaluate plans or specifications to determine technological or environmental implications.,7,
-Anthropology,27,34,determine methods to minimize environmental impact of activities.,7,
-Architecture,19,24,coordinate construction project activities.,5,
-Architecture,28,33,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5,
-Architecture,34,44,design materials for industrial or commercial applications.,10,
-Architecture,36,48,"design micro- or nano-scale materials, devices, or systems.",12,
-Architecture,38,50,communicate with other construction or extraction personnel to discuss project details.,12,
-Architecture,40,46,develop detailed project plans.,6,
-Architecture,41,47,"design layout of art or product exhibits, displays, or promotional materials.",6,
-Architecture,46,55,evaluate project designs to determine adequacy or feasibility.,9,
-Architecture,48,58,collaborate with others to determine design specifications or details.,10,
-Astronomy,18,23,evaluate characteristics of equipment or systems.,5,
-Astronomy,26,32,develop models of information or communications systems.,6,
-Astronomy,37,43,inspect gas systems or components to identify leaks or other potential hazards.,6,
-Astronomy,44,49,recommend changes to improve computer or information systems.,5,
-Astronomy,45,52,identify actions needed to bring properties or facilities into compliance with regulations.,7,
-Atmospheric Sciences,22,27,"analyze jobs using observation, survey, or interview techniques.",5,
-Atmospheric Sciences,33,39,develop models of information or communications systems.,6,
-Atmospheric Sciences,41,46,develop new or advanced products or production methods.,5,
-Basic Computer Skills,34,39,evaluate utility of software or hardware technologies.,5,
-Basic Computer Skills,42,49,obtain information about goods or services.,7,
-Basic Computer Skills,48,58,prepare medical instruments or equipment for use.,10,
-Basic Computer Skills,50,60,prepare medical supplies or equipment for use.,10,
-Basic Skills,12,18,collaborate with others to determine technical details of productions.,6,
-Basic Skills,15,20,read work orders or other instructions to determine product specifications or materials requirements.,5,
-Basic Skills,16,22,prepare reports detailing student activities or performance.,6,
-Basic Skills,28,35,collaborate with others to determine design specifications or details.,7,
-Basic Skills,32,37,collaborate with others to determine production details.,5,
-Basic Skills,34,42,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",8,
-Basic Skills,37,44,communicate with other construction or extraction personnel to discuss project details.,7,
-Basic Skills,38,49,obtain written authorization to perform activities.,11,
-Basic Skills,43,59,develop specifications for new products or processes.,16,
-Basic Skills,44,52,communicate situation details to appropriate personnel.,8,
-Basic Skills,50,57,collaborate with others to develop or implement marketing strategies.,7,
-Business,48,53,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5,
-Chemistry,49,54,develop organizational methods or procedures.,5,
-Chemistry,50,55,measure physical or chemical properties of materials or objects.,5,
-Chinese,17,23,encourage patients or clients to develop life skills.,6,
-Chinese,18,27,obtain written authorization to perform activities.,9,
-Chinese,32,39,prepare reports detailing student activities or performance.,7,
-Chinese,35,40,"write articles, books or other original materials in area of expertise.",5,
-Chinese,37,43,read materials to determine needed actions.,6,
-Chinese,42,51,develop specifications for new products or processes.,9,
-Chinese,47,52,identify actions needed to bring properties or facilities into compliance with regulations.,5,
-Chinese,50,55,prepare information or documentation related to legal or regulatory matters.,5,
-Classics,19,26,develop specifications for new products or processes.,7,
-Classics,22,28,read materials to determine needed actions.,6,
-Classics,42,48,administer tests to assess educational needs or progress.,6,
-Classics,45,52,identify actions needed to bring properties or facilities into compliance with regulations.,7,
-Classics,49,55,develop new or advanced products or production methods.,6,
-Computer Science,27,33,develop technical specifications for systems or equipment.,6,
-Computer Science,33,40,analyze green technology design requirements.,7,x
-Computer Science,35,44,develop procedures for data entry or processing.,9,
-Computer Science,36,41,evaluate new technologies or methods.,5,
-Computer Science,37,45,develop performance metrics or standards related to information technology.,8,
-Computer Science,38,43,develop specifications or procedures for website development or maintenance.,5,
-Computer Science,40,46,apply information technology to solve business or other applied problems.,6,x
-Computer Science,44,53,maintain data in information systems or databases.,9,
-Computer Science,45,51,"analyze operational data to evaluate operations, processes or products.",6,
-Computer Science,47,56,"design micro- or nano-scale materials, devices, or systems.",9,
-Computer Science,49,58,develop strategies or programs for students with special needs.,9,
-Cosmetology,31,37,"establish standards for products, processes, or procedures.",6,
-Cosmetology,32,38,identify new applications for existing technologies.,6,
-Cosmetology,38,44,determine protocols for medical procedures.,6,
-Cosmetology,40,46,evaluate green operations or programs for compliance with standards or regulations.,6,
-Cosmetology,46,51,develop emergency response plans or procedures.,5,
-Cosmetology,47,54,examine product information to ensure compliance with regulations.,7,
-Cosmetology,48,55,operate transportation equipment to demonstrate function or malfunction.,7,
-Cosmetology,50,57,develop tools to diagnose or assess needs.,7,
-Criminal Justice,24,29,identify actions needed to bring properties or facilities into compliance with regulations.,5,
-Criminal Justice,28,33,obtain copyrights or other legal permissions.,5,
-Criminal Justice,36,43,prepare documentation of legal proceedings.,7,
-Criminal Justice,41,48,evaluate personnel practices to ensure adherence to regulations.,7,
-Culinary Arts,22,27,develop organizational methods or procedures.,5,
-Culinary Arts,24,32,analyze logistics processes.,8,
-Culinary Arts,31,37,evaluate new technologies or methods.,6,
-Culinary Arts,36,45,"analyze operational data to evaluate operations, processes or products.",9,
-Culinary Arts,37,44,"develop operating strategies, plans, or procedures for green or sustainable operations.",7,
-Culinary Arts,38,46,analyze test or performance data to assess equipment operation.,8,
-Culinary Arts,39,50,develop new or advanced products or production methods.,11,
-Culinary Arts,42,48,analyze design or requirements information for mechanical equipment or systems.,6,
-Culinary Arts,46,53,"develop operating strategies, plans, or procedures.",7,
-Culinary Arts,48,57,"select tools, equipment, or technologies for use in operations or projects.",9,
-Culinary Arts,49,59,"establish standards for products, processes, or procedures.",10,
-Culinary Arts,50,60,evaluate characteristics of equipment or systems.,10,
-Dance,30,35,develop new or advanced products or production methods.,5,
-Dance,35,40,collaborate with others to prepare or perform artistic productions.,5,
-Dance,38,48,prepare reports detailing student activities or performance.,10,
-Dance,43,49,develop technical specifications for systems or equipment.,6,
-Dance,46,51,instruct workers to use equipment or perform technical procedures.,5,
-Dance,49,57,develop instructional objectives.,8,
-Dentistry,29,38,monitor medical equipment to ensure proper functioning.,9,
-Dentistry,33,41,monitor video displays of medical equipment to ensure proper functioning.,8,
-Dentistry,35,43,monitor medical facility activities to ensure adherence to standards or regulations.,8,
-Dentistry,44,49,teach medical procedures to healthcare personnel.,5,
-Dentistry,47,55,interview patients to gather medical information.,8,
-Dentistry,48,54,provide medical or cosmetic advice for clients.,6,
-Earth Sciences,17,22,"analyze operational data to evaluate operations, processes or products.",5,
-Earth Sciences,34,39,evaluate new technologies or methods.,5,
-Earth Sciences,47,53,identify actions needed to bring properties or facilities into compliance with regulations.,6,
-Earth Sciences,49,62,"establish standards for products, processes, or procedures.",13,
-Economics,27,37,evaluate plans or specifications to determine technological or environmental implications.,10,x
-Economics,38,44,evaluate technical data to determine effect on designs or plans.,6,
-Economics,49,54,instruct workers to use equipment or perform technical procedures.,5,
-Economics,50,58,develop marketing plans or strategies for environmental initiatives.,8,x
-Education,25,30,develop instructional objectives.,5,
-Education,32,38,"advise educators on curricula, instructional methods, or policies.",6,
-Education,39,48,develop sustainable organizational policies or practices.,9,
-Education,43,52,develop strategies or programs for students with special needs.,9,
-Education,48,57,develop promotional strategies or plans.,9,
-Engineering,48,55,evaluate characteristics of equipment or systems.,7,
-English Literature,30,36,attend events to develop professional knowledge.,6,
-English Literature,39,47,examine debris to obtain information about causes of fires.,8,
-English Literature,41,49,collaborate with others to develop or implement marketing strategies.,8,
-English Literature,44,51,evaluate scholarly materials.,7,
-Film and Photography,21,30,develop new or advanced products or production methods.,9,
-Film and Photography,24,29,prepare detailed work plans.,5,
-Film and Photography,25,32,train employees in proper work procedures.,7,
-Film and Photography,26,34,prepare proposals or grant applications to obtain project funding.,8,
-Film and Photography,27,33,prepare chemicals for work application.,6,
-Film and Photography,34,40,develop technical processes to improve the efficiency of biofuel production.,6,
-Film and Photography,44,50,"select tools, equipment, or technologies for use in operations or projects.",6,
-Fine Arts,30,35,establish work standards.,5,
-Fine Arts,34,40,establish interpersonal business relationships to facilitate work activities.,6,
-Fine Arts,38,43,collaborate with others to prepare or perform artistic productions.,5,
-Fitness and Leisure,27,32,develop training materials.,5,
-Fitness and Leisure,28,38,develop exercise or conditioning programs.,10,
-Fitness and Leisure,30,40,prepare healthcare training materials.,10,
-Fitness and Leisure,34,43,evaluate capabilities or training needs.,9,
-Fitness and Leisure,35,44,"evaluate patient functioning, capabilities, or health.",9,
-Fitness and Leisure,48,56,prepare patients physically for medical procedures.,8,
-French,7,12,obtain written authorization to perform activities.,5,
-French,18,23,read materials to determine needed actions.,5,
-French,25,31,interview people to gather information about criminal activities.,6,
-French,30,41,observe individuals' activities to gather information or compile evidence.,11,
-French,34,39,prepare healthcare training materials.,5,
-French,39,46,read technical information needed to perform maintenance or repairs.,7,
-French,41,47,confer with organizational members to accomplish work activities.,6,
-French,42,50,gather information about work conditions or locations.,8,
-French,43,48,write material for artistic or entertainment purposes.,5,
-French,50,56,develop training materials.,6,
-Geography,17,24,"analyze operational data to evaluate operations, processes or products.",7,
-Geography,23,28,"analyze security of systems, network, or data.",5,
-Geography,34,40,determine methods to minimize environmental impact of activities.,6,
-Geography,36,42,evaluate logistics methods to reduce environmental impact.,6,
-Geography,37,43,develop computer or information systems.,6,
-Geography,44,53,develop procedures for data entry or processing.,9,
-Geography,47,52,gather physical survey data.,5,
-German,12,18,obtain written authorization to perform activities.,6,
-German,21,30,read materials to determine needed actions.,9,
-German,24,29,read technical information needed to perform maintenance or repairs.,5,
-German,28,34,prepare healthcare training materials.,6,
-German,30,35,"write articles, books or other original materials in area of expertise.",5,
-German,40,49,develop specifications for new products or processes.,9,
-Health Technician,12,17,examine medical instruments or equipment to ensure proper operation.,5,
-Health Technician,20,26,"evaluate patient functioning, capabilities, or health.",6,
-Health Technician,21,33,operate laboratory equipment to analyze medical samples.,12,
-Health Technician,22,29,prepare medical instruments or equipment for use.,7,
-Health Technician,23,30,monitor medical facility activities to ensure adherence to standards or regulations.,7,
-Health Technician,27,35,develop medical treatment plans.,8,
-Health Technician,30,42,prepare medical supplies or equipment for use.,12,
-Health Technician,31,39,teach medical procedures to healthcare personnel.,8,
-Health Technician,33,43,evaluate treatment options to guide medical decisions.,10,
-Health Technician,34,41,interview patients to gather medical information.,7,
-Health Technician,42,49,calculate numerical data for medical activities.,7,
-Health Technician,46,54,analyze patient data to determine patient needs or treatment goals.,8,
-Health Technician,47,63,"monitor patient conditions during treatments, procedures, or activities.",16,
-Hebrew,8,13,read materials to determine needed actions.,5,
-Hebrew,34,39,clean materials to prepare them for production.,5,
-Hebrew,35,40,prepare materials for processing.,5,
-Hebrew,40,48,develop promotional materials.,8,
-Hebrew,44,54,develop content for sales presentations or other materials.,10,
-History,33,38,analyze environmental regulations to ensure organizational compliance.,5,
-History,35,40,administer tests to assess educational needs or progress.,5,
-Japanese,44,51,"explain engineering drawings, specifications, or other technical information.",7,
-Japanese,45,50,provide customers with general information or assistance.,5,
-Japanese,50,62,observe individuals' activities to gather information or compile evidence.,12,
-Journalism,9,15,prepare reports detailing student activities or performance.,6,
-Journalism,10,16,prepare technical or operational reports.,6,
-Journalism,16,21,prepare reports summarizing patient diagnostic or care activities.,5,
-Journalism,24,37,gather information about work conditions or locations.,13,x
-Journalism,25,32,prepare detailed work plans.,7,
-Journalism,28,33,prepare employee work schedules.,5,
-Journalism,29,34,prepare operational reports.,5,
-Journalism,30,35,prepare staff schedules or work assignments.,5,
-Journalism,31,36,read work orders to determine material or setup requirements.,5,
-Journalism,33,38,prepare analytical reports.,5,
-Journalism,42,48,prepare scientific or technical reports or presentations.,6,x
-Journalism,43,49,"prepare financial documents, reports, or budgets.",6,
-Journalism,47,53,establish interpersonal business relationships to facilitate work activities.,6,
-Journalism,49,58,develop working relationships with others to facilitate program activities.,9,
-Law,25,30,process forensic or legal evidence in accordance with procedures.,5,
-Law,26,32,supervise activities of other legal personnel.,6,
-Law,50,55,monitor medical facility activities to ensure adherence to standards or regulations.,5,
-Library Science,37,42,collaborate with others to resolve information technology issues.,5,
-Library Science,39,53,interview people to gather information about criminal activities.,14,
-Library Science,40,46,review production information to determine costume or makeup requirements.,6,
-Library Science,45,51,gather information about work conditions or locations.,6,
-Linguistics,21,27,research microbiological or chemical processes or structures.,6,
-Linguistics,45,53,study blueprints or other instructions to determine equipment setup requirements.,8,
-Linguistics,49,55,identify actions needed to bring properties or facilities into compliance with regulations.,6,
-Mathematics,21,26,evaluate technical data to determine effect on designs or plans.,5,
-Mathematics,26,31,evaluate potential problems in home or work environments of clients.,5,
-Mathematics,29,34,evaluate the characteristics of green technologies.,5,
-Mathematics,30,37,"analyze jobs using observation, survey, or interview techniques.",7,
-Mathematics,50,63,identify new applications for existing technologies.,13,
-Mechanic / Repair Tech,15,22,inspect gas systems or components to identify leaks or other potential hazards.,7,
-Mechanic / Repair Tech,24,31,review work orders or schedules to determine operations or procedures.,7,
-Mechanic / Repair Tech,25,34,operate precision equipment to control microscopic or nanoscopic processes.,9,
-Mechanic / Repair Tech,29,36,maintain equipment or systems to ensure proper functioning.,7,
-Mechanic / Repair Tech,34,43,inspect materials or equipment to determine need for repair or replacement.,9,
-Mechanic / Repair Tech,35,42,examine medical instruments or equipment to ensure proper operation.,7,
-Mechanic / Repair Tech,43,51,calculate requirements for equipment installation or repair projects.,8,
-Mechanic / Repair Tech,48,58,classify materials according to standard systems.,10,
-Mechanic / Repair Tech,49,57,inspect systems to determine if they are operating properly.,8,
-Mechanic / Repair Tech,50,56,operate chemical processing or water treatment systems or equipment.,6,
-Media / Communications,28,36,communicate organizational policies and procedures.,8,
-Media / Communications,31,43,meet with coworkers to communicate work orders or plans.,12,
-Media / Communications,34,42,collaborate with other professionals to develop education or assistance programs.,8,
-Media / Communications,46,52,develop sustainable organizational policies or practices.,6,
-Media / Communications,49,59,develop performance metrics or standards related to information technology.,10,
-Medicine,23,28,develop healthcare quality and safety procedures.,5,x
-Medicine,36,43,verify that medical activities or operations meet standards.,7,
-Medicine,38,45,prepare medical instruments or equipment for use.,7,
-Medicine,41,49,examine medical instruments or equipment to ensure proper operation.,8,
-Medicine,45,50,prepare medications or medical solutions.,5,
-Medicine,47,53,prepare medical supplies or equipment for use.,6,
-Medicine,50,65,operate laboratory equipment to analyze medical samples.,15,x
-Military Science,28,33,develop exercise or conditioning programs.,5,
-Military Science,30,37,prepare healthcare training materials.,7,
-Military Science,33,40,collaborate with others to develop or implement marketing strategies.,7,
-Military Science,35,41,develop organizational policies or programs.,6,
-Military Science,36,43,develop technical processes to improve the efficiency of biofuel production.,7,
-Military Science,45,52,develop specifications for computer network operation.,7,
-Military Science,46,51,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5,
-Music,23,30,obtain written authorization to perform activities.,7,
-Music,30,35,develop technical processes to improve the efficiency of biofuel production.,5,
-Music,38,46,prepare healthcare training materials.,8,
-Music,44,50,"recommend technical design or process changes to improve efficiency, quality, or performance.",6,
-Music,47,53,monitor computer system performance to ensure proper operation.,6,
-Music,50,55,develop new or advanced products or production methods.,5,
-Nursing,18,24,communicate detailed medical information to patients or family members.,6,
-Nursing,22,28,prepare medical instruments or equipment for use.,6,
-Nursing,40,54,operate laboratory equipment to analyze medical samples.,14,
-Nursing,43,48,communicate health and wellness information to the public.,5,
-Nursing,44,52,calculate numerical data for medical activities.,8,
-Nursing,46,53,determine protocols for medical procedures.,7,
-Nutrition,29,36,prepare official health documents or records.,7,
-Nutrition,32,39,plan programs to address community mental wellness needs.,7,
-Nutrition,42,48,analyze project data to determine specifications or requirements.,6,
-Nutrition,45,50,coordinate timing of food production activities.,5,
-Nutrition,48,55,evaluate applicable laws and regulations to determine impact on organizational activities.,7,
-Nutrition,50,56,"develop educational goals, standards, policies, or procedures.",6,
-Philosophy,21,26,monitor patron activities to identify problems or potential problems.,5,
-Philosophy,43,52,inspect telecommunications equipment to identify problems.,9,
-Philosophy,47,56,investigate work related complaints to determine corrective actions.,9,
-Physics,32,38,"explain engineering drawings, specifications, or other technical information.",6,
-Physics,33,43,develop procedures for data entry or processing.,10,x
-Physics,34,41,develop performance metrics or standards related to information technology.,7,x
-Physics,41,50,develop technical specifications for systems or equipment.,9,
-Physics,50,59,evaluate technical data to determine effect on designs or plans.,9,
-Psychology,45,50,research industrial processes or operations.,5,
-Psychology,50,55,research microbiological or chemical processes or structures.,5,
-Public Safety,16,21,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5,
-Public Safety,19,24,evaluate applicable laws and regulations to determine impact on organizational activities.,5,
-Public Safety,22,27,"discuss business strategies, practices, or policies with managers.",5,
-Public Safety,23,29,analyze test or performance data to assess equipment operation.,6,
-Public Safety,26,31,"develop operating strategies, plans, or procedures for green or sustainable operations.",5,
-Public Safety,34,43,evaluate green operations or programs for compliance with standards or regulations.,9,
-Public Safety,45,52,analyze data to inform operational decisions or activities.,7,
-Public Safety,47,57,evaluate characteristics of equipment or systems.,10,
-Public Safety,48,56,implement security measures for computer or information systems.,8,
-Religion,50,55,select educational materials or equipment.,5,
-Sign Language,10,15,maintain knowledge of current developments in area of expertise.,5,
-Sign Language,25,30,interview people to obtain information about actions or status of individuals.,5,
-Sign Language,32,37,interview people to gather information about criminal activities.,5,
-Sign Language,36,41,observe individuals' activities to gather information or compile evidence.,5,
-Sign Language,45,50,develop performance metrics or standards related to information technology.,5,
-Sign Language,50,55,examine debris to obtain information about causes of fires.,5,
-Social Work,34,39,evaluate effectiveness of educational programs.,5,
-Social Work,43,48,monitor work areas to provide security.,5,
-Sociology,32,38,evaluate plans or specifications to determine technological or environmental implications.,6,
-Sociology,38,43,examine financial records or processes.,5,
-Spanish,11,16,identify actions needed to bring properties or facilities into compliance with regulations.,5,
-Spanish,29,34,read materials to determine needed actions.,5,
-Spanish,36,45,prepare reports detailing student activities or performance.,9,
-Spanish,40,51,prepare healthcare training materials.,11,
-Spanish,43,58,interview people to gather information about criminal activities.,15,
-Spanish,45,57,develop training materials.,12,
-Spanish,47,69,obtain documentation to authorize activities.,22,
-Spanish,48,63,collaborate with outside groups to develop programs or projects.,15,
-Spanish,50,68,observe individuals' activities to gather information or compile evidence.,18,
-Theatre Arts,12,25,prepare reports detailing student activities or performance.,13,
-Theatre Arts,13,19,develop new or advanced products or production methods.,6,
-Theatre Arts,31,37,develop performance metrics or standards related to information technology.,6,
-Theology,43,48,evaluate characteristics of archival or historical objects.,5,
-Theology,44,51,"analyze jobs using observation, survey, or interview techniques.",7,
-Theology,48,56,evaluate capabilities or training needs.,8,
-Transportation,10,20,monitor operational activities to ensure compliance with regulations or standard operating procedures.,10,
-Transportation,13,18,review work orders or schedules to determine operations or procedures.,5,
-Transportation,20,26,"select tools, equipment, or technologies for use in operations or projects.",6,
-Transportation,21,28,"establish standards for products, processes, or procedures.",7,
-Transportation,24,29,train employees in proper work procedures.,5,
-Transportation,27,35,monitor operational procedures in technical environments to ensure conformance to standards.,8,
-Transportation,36,42,evaluate effectiveness of personnel policies or practices.,6,
-Transportation,37,44,evaluate personnel practices to ensure adherence to regulations.,7,
-Transportation,40,45,monitor organizational procedures to ensure proper functioning.,5,
-Transportation,43,50,monitor food services operations to ensure procedures are followed.,7,
-Transportation,47,53,"monitor patient conditions during treatments, procedures, or activities.",6,
-Veterinary Medicine,14,19,develop performance metrics or standards related to information technology.,5,
-Veterinary Medicine,19,26,use databases to locate investigation details or other information.,7,
-Veterinary Medicine,32,37,collaborate with others to develop or implement marketing strategies.,5,
-Veterinary Medicine,48,53,examine product information to ensure compliance with regulations.,5,
-Veterinary Medicine,49,55,prepare medical instruments or equipment for use.,6,
-Women's Studies,31,38,examine financial records or processes.,7,
-Women's Studies,36,41,determine methods to minimize environmental impact of activities.,5,
-Women's Studies,46,52,examine personal documentation to ensure that it is valid.,6,
+FOS,rank,old_rank,dwa,increase
+Accounting,24,30,develop financial plans for clients.,6
+Agriculture,30,35,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5
+Agriculture,44,51,develop new or advanced products or production methods.,7
+Anthropology,24,31,evaluate plans or specifications to determine technological or environmental implications.,7
+Anthropology,27,34,determine methods to minimize environmental impact of activities.,7
+Architecture,19,24,coordinate construction project activities.,5
+Architecture,28,33,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5
+Architecture,34,44,design materials for industrial or commercial applications.,10
+Architecture,36,48,"design micro- or nano-scale materials, devices, or systems.",12
+Architecture,38,50,communicate with other construction or extraction personnel to discuss project details.,12
+Architecture,40,46,develop detailed project plans.,6
+Architecture,41,47,"design layout of art or product exhibits, displays, or promotional materials.",6
+Architecture,46,55,evaluate project designs to determine adequacy or feasibility.,9
+Architecture,48,58,collaborate with others to determine design specifications or details.,10
+Astronomy,18,23,evaluate characteristics of equipment or systems.,5
+Astronomy,26,32,develop models of information or communications systems.,6
+Astronomy,37,43,inspect gas systems or components to identify leaks or other potential hazards.,6
+Astronomy,44,49,recommend changes to improve computer or information systems.,5
+Astronomy,45,52,identify actions needed to bring properties or facilities into compliance with regulations.,7
+Atmospheric Sciences,22,27,"analyze jobs using observation, survey, or interview techniques.",5
+Atmospheric Sciences,33,39,develop models of information or communications systems.,6
+Atmospheric Sciences,41,46,develop new or advanced products or production methods.,5
+Basic Computer Skills,34,39,evaluate utility of software or hardware technologies.,5
+Basic Computer Skills,42,49,obtain information about goods or services.,7
+Basic Computer Skills,48,58,prepare medical instruments or equipment for use.,10
+Basic Computer Skills,50,60,prepare medical supplies or equipment for use.,10
+Basic Skills,12,18,collaborate with others to determine technical details of productions.,6
+Basic Skills,15,20,read work orders or other instructions to determine product specifications or materials requirements.,5
+Basic Skills,16,22,prepare reports detailing student activities or performance.,6
+Basic Skills,28,35,collaborate with others to determine design specifications or details.,7
+Basic Skills,32,37,collaborate with others to determine production details.,5
+Basic Skills,34,42,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",8
+Basic Skills,37,44,communicate with other construction or extraction personnel to discuss project details.,7
+Basic Skills,38,49,obtain written authorization to perform activities.,11
+Basic Skills,43,59,develop specifications for new products or processes.,16
+Basic Skills,44,52,communicate situation details to appropriate personnel.,8
+Basic Skills,50,57,collaborate with others to develop or implement marketing strategies.,7
+Business,48,53,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5
+Chemistry,49,54,develop organizational methods or procedures.,5
+Chemistry,50,55,measure physical or chemical properties of materials or objects.,5
+Chinese,17,23,encourage patients or clients to develop life skills.,6
+Chinese,18,27,obtain written authorization to perform activities.,9
+Chinese,32,39,prepare reports detailing student activities or performance.,7
+Chinese,35,40,"write articles, books or other original materials in area of expertise.",5
+Chinese,37,43,read materials to determine needed actions.,6
+Chinese,42,51,develop specifications for new products or processes.,9
+Chinese,47,52,identify actions needed to bring properties or facilities into compliance with regulations.,5
+Chinese,50,55,prepare information or documentation related to legal or regulatory matters.,5
+Classics,19,26,develop specifications for new products or processes.,7
+Classics,22,28,read materials to determine needed actions.,6
+Classics,42,48,administer tests to assess educational needs or progress.,6
+Classics,45,52,identify actions needed to bring properties or facilities into compliance with regulations.,7
+Classics,49,55,develop new or advanced products or production methods.,6
+Computer Science,27,33,develop technical specifications for systems or equipment.,6
+Computer Science,33,40,analyze green technology design requirements.,7
+Computer Science,35,44,develop procedures for data entry or processing.,9
+Computer Science,36,41,evaluate new technologies or methods.,5
+Computer Science,37,45,develop performance metrics or standards related to information technology.,8
+Computer Science,38,43,develop specifications or procedures for website development or maintenance.,5
+Computer Science,40,46,apply information technology to solve business or other applied problems.,6
+Computer Science,44,53,maintain data in information systems or databases.,9
+Computer Science,45,51,"analyze operational data to evaluate operations, processes or products.",6
+Computer Science,47,56,"design micro- or nano-scale materials, devices, or systems.",9
+Computer Science,49,58,develop strategies or programs for students with special needs.,9
+Cosmetology,31,37,"establish standards for products, processes, or procedures.",6
+Cosmetology,32,38,identify new applications for existing technologies.,6
+Cosmetology,38,44,determine protocols for medical procedures.,6
+Cosmetology,40,46,evaluate green operations or programs for compliance with standards or regulations.,6
+Cosmetology,46,51,develop emergency response plans or procedures.,5
+Cosmetology,47,54,examine product information to ensure compliance with regulations.,7
+Cosmetology,48,55,operate transportation equipment to demonstrate function or malfunction.,7
+Cosmetology,50,57,develop tools to diagnose or assess needs.,7
+Criminal Justice,24,29,identify actions needed to bring properties or facilities into compliance with regulations.,5
+Criminal Justice,28,33,obtain copyrights or other legal permissions.,5
+Criminal Justice,36,43,prepare documentation of legal proceedings.,7
+Criminal Justice,41,48,evaluate personnel practices to ensure adherence to regulations.,7
+Culinary Arts,22,27,develop organizational methods or procedures.,5
+Culinary Arts,24,32,analyze logistics processes.,8
+Culinary Arts,31,37,evaluate new technologies or methods.,6
+Culinary Arts,36,45,"analyze operational data to evaluate operations, processes or products.",9
+Culinary Arts,37,44,"develop operating strategies, plans, or procedures for green or sustainable operations.",7
+Culinary Arts,38,46,analyze test or performance data to assess equipment operation.,8
+Culinary Arts,39,50,develop new or advanced products or production methods.,11
+Culinary Arts,42,48,analyze design or requirements information for mechanical equipment or systems.,6
+Culinary Arts,46,53,"develop operating strategies, plans, or procedures.",7
+Culinary Arts,48,57,"select tools, equipment, or technologies for use in operations or projects.",9
+Culinary Arts,49,59,"establish standards for products, processes, or procedures.",10
+Culinary Arts,50,60,evaluate characteristics of equipment or systems.,10
+Dance,30,35,develop new or advanced products or production methods.,5
+Dance,35,40,collaborate with others to prepare or perform artistic productions.,5
+Dance,38,48,prepare reports detailing student activities or performance.,10
+Dance,43,49,develop technical specifications for systems or equipment.,6
+Dance,46,51,instruct workers to use equipment or perform technical procedures.,5
+Dance,49,57,develop instructional objectives.,8
+Dentistry,29,38,monitor medical equipment to ensure proper functioning.,9
+Dentistry,33,41,monitor video displays of medical equipment to ensure proper functioning.,8
+Dentistry,35,43,monitor medical facility activities to ensure adherence to standards or regulations.,8
+Dentistry,44,49,teach medical procedures to healthcare personnel.,5
+Dentistry,47,55,interview patients to gather medical information.,8
+Dentistry,48,54,provide medical or cosmetic advice for clients.,6
+Earth Sciences,17,22,"analyze operational data to evaluate operations, processes or products.",5
+Earth Sciences,34,39,evaluate new technologies or methods.,5
+Earth Sciences,47,53,identify actions needed to bring properties or facilities into compliance with regulations.,6
+Earth Sciences,49,62,"establish standards for products, processes, or procedures.",13
+Economics,27,37,evaluate plans or specifications to determine technological or environmental implications.,10
+Economics,38,44,evaluate technical data to determine effect on designs or plans.,6
+Economics,49,54,instruct workers to use equipment or perform technical procedures.,5
+Economics,50,58,develop marketing plans or strategies for environmental initiatives.,8
+Education,25,30,develop instructional objectives.,5
+Education,32,38,"advise educators on curricula, instructional methods, or policies.",6
+Education,39,48,develop sustainable organizational policies or practices.,9
+Education,43,52,develop strategies or programs for students with special needs.,9
+Education,48,57,develop promotional strategies or plans.,9
+Engineering,48,55,evaluate characteristics of equipment or systems.,7
+English Literature,30,36,attend events to develop professional knowledge.,6
+English Literature,39,47,examine debris to obtain information about causes of fires.,8
+English Literature,41,49,collaborate with others to develop or implement marketing strategies.,8
+English Literature,44,51,evaluate scholarly materials.,7
+Film and Photography,21,30,develop new or advanced products or production methods.,9
+Film and Photography,24,29,prepare detailed work plans.,5
+Film and Photography,25,32,train employees in proper work procedures.,7
+Film and Photography,26,34,prepare proposals or grant applications to obtain project funding.,8
+Film and Photography,27,33,prepare chemicals for work application.,6
+Film and Photography,34,40,develop technical processes to improve the efficiency of biofuel production.,6
+Film and Photography,44,50,"select tools, equipment, or technologies for use in operations or projects.",6
+Fine Arts,30,35,establish work standards.,5
+Fine Arts,34,40,establish interpersonal business relationships to facilitate work activities.,6
+Fine Arts,38,43,collaborate with others to prepare or perform artistic productions.,5
+Fitness and Leisure,27,32,develop training materials.,5
+Fitness and Leisure,28,38,develop exercise or conditioning programs.,10
+Fitness and Leisure,30,40,prepare healthcare training materials.,10
+Fitness and Leisure,34,43,evaluate capabilities or training needs.,9
+Fitness and Leisure,35,44,"evaluate patient functioning, capabilities, or health.",9
+Fitness and Leisure,48,56,prepare patients physically for medical procedures.,8
+French,7,12,obtain written authorization to perform activities.,5
+French,18,23,read materials to determine needed actions.,5
+French,25,31,interview people to gather information about criminal activities.,6
+French,30,41,observe individuals' activities to gather information or compile evidence.,11
+French,34,39,prepare healthcare training materials.,5
+French,39,46,read technical information needed to perform maintenance or repairs.,7
+French,41,47,confer with organizational members to accomplish work activities.,6
+French,42,50,gather information about work conditions or locations.,8
+French,43,48,write material for artistic or entertainment purposes.,5
+French,50,56,develop training materials.,6
+Geography,17,24,"analyze operational data to evaluate operations, processes or products.",7
+Geography,23,28,"analyze security of systems, network, or data.",5
+Geography,34,40,determine methods to minimize environmental impact of activities.,6
+Geography,36,42,evaluate logistics methods to reduce environmental impact.,6
+Geography,37,43,develop computer or information systems.,6
+Geography,44,53,develop procedures for data entry or processing.,9
+Geography,47,52,gather physical survey data.,5
+German,12,18,obtain written authorization to perform activities.,6
+German,21,30,read materials to determine needed actions.,9
+German,24,29,read technical information needed to perform maintenance or repairs.,5
+German,28,34,prepare healthcare training materials.,6
+German,30,35,"write articles, books or other original materials in area of expertise.",5
+German,40,49,develop specifications for new products or processes.,9
+Health Technician,12,17,examine medical instruments or equipment to ensure proper operation.,5
+Health Technician,20,26,"evaluate patient functioning, capabilities, or health.",6
+Health Technician,21,33,operate laboratory equipment to analyze medical samples.,12
+Health Technician,22,29,prepare medical instruments or equipment for use.,7
+Health Technician,23,30,monitor medical facility activities to ensure adherence to standards or regulations.,7
+Health Technician,27,35,develop medical treatment plans.,8
+Health Technician,30,42,prepare medical supplies or equipment for use.,12
+Health Technician,31,39,teach medical procedures to healthcare personnel.,8
+Health Technician,33,43,evaluate treatment options to guide medical decisions.,10
+Health Technician,34,41,interview patients to gather medical information.,7
+Health Technician,42,49,calculate numerical data for medical activities.,7
+Health Technician,46,54,analyze patient data to determine patient needs or treatment goals.,8
+Health Technician,47,63,"monitor patient conditions during treatments, procedures, or activities.",16
+Hebrew,8,13,read materials to determine needed actions.,5
+Hebrew,34,39,clean materials to prepare them for production.,5
+Hebrew,35,40,prepare materials for processing.,5
+Hebrew,40,48,develop promotional materials.,8
+Hebrew,44,54,develop content for sales presentations or other materials.,10
+History,33,38,analyze environmental regulations to ensure organizational compliance.,5
+History,35,40,administer tests to assess educational needs or progress.,5
+Japanese,44,51,"explain engineering drawings, specifications, or other technical information.",7
+Japanese,45,50,provide customers with general information or assistance.,5
+Japanese,50,62,observe individuals' activities to gather information or compile evidence.,12
+Journalism,9,15,prepare reports detailing student activities or performance.,6
+Journalism,10,16,prepare technical or operational reports.,6
+Journalism,16,21,prepare reports summarizing patient diagnostic or care activities.,5
+Journalism,24,37,gather information about work conditions or locations.,13
+Journalism,25,32,prepare detailed work plans.,7
+Journalism,28,33,prepare employee work schedules.,5
+Journalism,29,34,prepare operational reports.,5
+Journalism,30,35,prepare staff schedules or work assignments.,5
+Journalism,31,36,read work orders to determine material or setup requirements.,5
+Journalism,33,38,prepare analytical reports.,5
+Journalism,42,48,prepare scientific or technical reports or presentations.,6
+Journalism,43,49,"prepare financial documents, reports, or budgets.",6
+Journalism,47,53,establish interpersonal business relationships to facilitate work activities.,6
+Journalism,49,58,develop working relationships with others to facilitate program activities.,9
+Law,25,30,process forensic or legal evidence in accordance with procedures.,5
+Law,26,32,supervise activities of other legal personnel.,6
+Law,50,55,monitor medical facility activities to ensure adherence to standards or regulations.,5
+Library Science,37,42,collaborate with others to resolve information technology issues.,5
+Library Science,39,53,interview people to gather information about criminal activities.,14
+Library Science,40,46,review production information to determine costume or makeup requirements.,6
+Library Science,45,51,gather information about work conditions or locations.,6
+Linguistics,21,27,research microbiological or chemical processes or structures.,6
+Linguistics,45,53,study blueprints or other instructions to determine equipment setup requirements.,8
+Linguistics,49,55,identify actions needed to bring properties or facilities into compliance with regulations.,6
+Mathematics,21,26,evaluate technical data to determine effect on designs or plans.,5
+Mathematics,26,31,evaluate potential problems in home or work environments of clients.,5
+Mathematics,29,34,evaluate the characteristics of green technologies.,5
+Mathematics,30,37,"analyze jobs using observation, survey, or interview techniques.",7
+Mathematics,50,63,identify new applications for existing technologies.,13
+Mechanic / Repair Tech,15,22,inspect gas systems or components to identify leaks or other potential hazards.,7
+Mechanic / Repair Tech,24,31,review work orders or schedules to determine operations or procedures.,7
+Mechanic / Repair Tech,25,34,operate precision equipment to control microscopic or nanoscopic processes.,9
+Mechanic / Repair Tech,29,36,maintain equipment or systems to ensure proper functioning.,7
+Mechanic / Repair Tech,34,43,inspect materials or equipment to determine need for repair or replacement.,9
+Mechanic / Repair Tech,35,42,examine medical instruments or equipment to ensure proper operation.,7
+Mechanic / Repair Tech,43,51,calculate requirements for equipment installation or repair projects.,8
+Mechanic / Repair Tech,48,58,classify materials according to standard systems.,10
+Mechanic / Repair Tech,49,57,inspect systems to determine if they are operating properly.,8
+Mechanic / Repair Tech,50,56,operate chemical processing or water treatment systems or equipment.,6
+Media / Communications,28,36,communicate organizational policies and procedures.,8
+Media / Communications,31,43,meet with coworkers to communicate work orders or plans.,12
+Media / Communications,34,42,collaborate with other professionals to develop education or assistance programs.,8
+Media / Communications,46,52,develop sustainable organizational policies or practices.,6
+Media / Communications,49,59,develop performance metrics or standards related to information technology.,10
+Medicine,23,28,develop healthcare quality and safety procedures.,5
+Medicine,36,43,verify that medical activities or operations meet standards.,7
+Medicine,38,45,prepare medical instruments or equipment for use.,7
+Medicine,41,49,examine medical instruments or equipment to ensure proper operation.,8
+Medicine,45,50,prepare medications or medical solutions.,5
+Medicine,47,53,prepare medical supplies or equipment for use.,6
+Medicine,50,65,operate laboratory equipment to analyze medical samples.,15
+Military Science,28,33,develop exercise or conditioning programs.,5
+Military Science,30,37,prepare healthcare training materials.,7
+Military Science,33,40,collaborate with others to develop or implement marketing strategies.,7
+Military Science,35,41,develop organizational policies or programs.,6
+Military Science,36,43,develop technical processes to improve the efficiency of biofuel production.,7
+Military Science,45,52,develop specifications for computer network operation.,7
+Military Science,46,51,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5
+Music,23,30,obtain written authorization to perform activities.,7
+Music,30,35,develop technical processes to improve the efficiency of biofuel production.,5
+Music,38,46,prepare healthcare training materials.,8
+Music,44,50,"recommend technical design or process changes to improve efficiency, quality, or performance.",6
+Music,47,53,monitor computer system performance to ensure proper operation.,6
+Music,50,55,develop new or advanced products or production methods.,5
+Nursing,18,24,communicate detailed medical information to patients or family members.,6
+Nursing,22,28,prepare medical instruments or equipment for use.,6
+Nursing,40,54,operate laboratory equipment to analyze medical samples.,14
+Nursing,43,48,communicate health and wellness information to the public.,5
+Nursing,44,52,calculate numerical data for medical activities.,8
+Nursing,46,53,determine protocols for medical procedures.,7
+Nutrition,29,36,prepare official health documents or records.,7
+Nutrition,32,39,plan programs to address community mental wellness needs.,7
+Nutrition,42,48,analyze project data to determine specifications or requirements.,6
+Nutrition,45,50,coordinate timing of food production activities.,5
+Nutrition,48,55,evaluate applicable laws and regulations to determine impact on organizational activities.,7
+Nutrition,50,56,"develop educational goals, standards, policies, or procedures.",6
+Philosophy,21,26,monitor patron activities to identify problems or potential problems.,5
+Philosophy,43,52,inspect telecommunications equipment to identify problems.,9
+Philosophy,47,56,investigate work related complaints to determine corrective actions.,9
+Physics,32,38,"explain engineering drawings, specifications, or other technical information.",6
+Physics,33,43,develop procedures for data entry or processing.,10
+Physics,34,41,develop performance metrics or standards related to information technology.,7
+Physics,41,50,develop technical specifications for systems or equipment.,9
+Physics,50,59,evaluate technical data to determine effect on designs or plans.,9
+Psychology,45,50,research industrial processes or operations.,5
+Psychology,50,55,research microbiological or chemical processes or structures.,5
+Public Safety,16,21,"interpret blueprints, specifications, or diagrams to inform installation, development or operation activities.",5
+Public Safety,19,24,evaluate applicable laws and regulations to determine impact on organizational activities.,5
+Public Safety,22,27,"discuss business strategies, practices, or policies with managers.",5
+Public Safety,23,29,analyze test or performance data to assess equipment operation.,6
+Public Safety,26,31,"develop operating strategies, plans, or procedures for green or sustainable operations.",5
+Public Safety,34,43,evaluate green operations or programs for compliance with standards or regulations.,9
+Public Safety,45,52,analyze data to inform operational decisions or activities.,7
+Public Safety,47,57,evaluate characteristics of equipment or systems.,10
+Public Safety,48,56,implement security measures for computer or information systems.,8
+Religion,50,55,select educational materials or equipment.,5
+Sign Language,10,15,maintain knowledge of current developments in area of expertise.,5
+Sign Language,25,30,interview people to obtain information about actions or status of individuals.,5
+Sign Language,32,37,interview people to gather information about criminal activities.,5
+Sign Language,36,41,observe individuals' activities to gather information or compile evidence.,5
+Sign Language,45,50,develop performance metrics or standards related to information technology.,5
+Sign Language,50,55,examine debris to obtain information about causes of fires.,5
+Social Work,34,39,evaluate effectiveness of educational programs.,5
+Social Work,43,48,monitor work areas to provide security.,5
+Sociology,32,38,evaluate plans or specifications to determine technological or environmental implications.,6
+Sociology,38,43,examine financial records or processes.,5
+Spanish,11,16,identify actions needed to bring properties or facilities into compliance with regulations.,5
+Spanish,29,34,read materials to determine needed actions.,5
+Spanish,36,45,prepare reports detailing student activities or performance.,9
+Spanish,40,51,prepare healthcare training materials.,11
+Spanish,43,58,interview people to gather information about criminal activities.,15
+Spanish,45,57,develop training materials.,12
+Spanish,47,69,obtain documentation to authorize activities.,22
+Spanish,48,63,collaborate with outside groups to develop programs or projects.,15
+Spanish,50,68,observe individuals' activities to gather information or compile evidence.,18
+Theatre Arts,12,25,prepare reports detailing student activities or performance.,13
+Theatre Arts,13,19,develop new or advanced products or production methods.,6
+Theatre Arts,31,37,develop performance metrics or standards related to information technology.,6
+Theology,43,48,evaluate characteristics of archival or historical objects.,5
+Theology,44,51,"analyze jobs using observation, survey, or interview techniques.",7
+Theology,48,56,evaluate capabilities or training needs.,8
+Transportation,10,20,monitor operational activities to ensure compliance with regulations or standard operating procedures.,10
+Transportation,13,18,review work orders or schedules to determine operations or procedures.,5
+Transportation,20,26,"select tools, equipment, or technologies for use in operations or projects.",6
+Transportation,21,28,"establish standards for products, processes, or procedures.",7
+Transportation,24,29,train employees in proper work procedures.,5
+Transportation,27,35,monitor operational procedures in technical environments to ensure conformance to standards.,8
+Transportation,36,42,evaluate effectiveness of personnel policies or practices.,6
+Transportation,37,44,evaluate personnel practices to ensure adherence to regulations.,7
+Transportation,40,45,monitor organizational procedures to ensure proper functioning.,5
+Transportation,43,50,monitor food services operations to ensure procedures are followed.,7
+Transportation,47,53,"monitor patient conditions during treatments, procedures, or activities.",6
+Veterinary Medicine,14,19,develop performance metrics or standards related to information technology.,5
+Veterinary Medicine,19,26,use databases to locate investigation details or other information.,7
+Veterinary Medicine,32,37,collaborate with others to develop or implement marketing strategies.,5
+Veterinary Medicine,48,53,examine product information to ensure compliance with regulations.,5
+Veterinary Medicine,49,55,prepare medical instruments or equipment for use.,6
+Women's Studies,31,38,examine financial records or processes.,7
+Women's Studies,36,41,determine methods to minimize environmental impact of activities.,5
+Women's Studies,46,52,examine personal documentation to ensure that it is valid.,6
