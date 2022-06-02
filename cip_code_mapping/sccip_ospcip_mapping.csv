@@ -1,0 +1,420 @@
+sc_cip,sc_cip_revised,field_name_1,osp_cip,field_name_2,mapping,manual,Note,have_data
+100,1,"Agriculture, General.",1,Agriculture,2,,,yes
+101,1.01,Agricultural Business and Management.,1,Agriculture,2,,,yes
+102,1.02,Agricultural Mechanization.,1,Agriculture,2,,,yes
+103,1.03,Agricultural Production Operations.,1,Agriculture,2,,,yes
+104,1.04,Agricultural and Food Products Processing.,1,Agriculture,2,,,yes
+105,1.05,Agricultural and Domestic Animal Services.,1,Agriculture,2,,,yes
+106,1.06,Applied Horticulture and Horticultural Business Services.,1,Agriculture,2,,,yes
+107,1.07,International Agriculture.,1,Agriculture,2,,,yes
+108,1.08,Agricultural Public Services.,1,Agriculture,2,,,yes
+109,1.09,Animal Sciences.,1,Agriculture,2,,,yes
+110,1.1,Food Science and Technology.,1,Agriculture,2,,,yes
+111,1.11,Plant Sciences.,1,Agriculture,2,,,yes
+112,1.12,Soil Sciences.,1,Agriculture,2,,,yes
+113,1.13,Agriculture/Veterinary Preparatory Programs.,1,Agriculture,2,,,yes
+180,1.8,Veterinary Medicine.,1,Agriculture,2,,,yes
+181,1.81,Veterinary Biomedical and Clinical Sciences.,1,Agriculture,2,,,yes
+183,1.83,Veterinary/Animal Health Technologies/Technicians.,1,Agriculture,2,,,yes
+199,1.99,"Agriculture, Agriculture Operations, and Related Sciences, Other.",1,Agriculture,2,,,yes
+301,3.01,Natural Resources Conservation and Research.,,,0,,,yes
+302,3.02,Natural Resources Management and Policy.,,,0,,,yes
+303,3.03,Fishing and Fisheries Sciences and Management.,,,0,,,yes
+305,3.05,Forestry.,,,0,,,yes
+306,3.06,Wildlife and Wildlands Science and Management.,,,0,,,yes
+399,3.99,"Natural Resources and Conservation, Other.",,,0,,,yes
+402,4.02,Architecture.,4,Architecture,2,,,yes
+403,4.03,"City/Urban, Community and Regional Planning.",4,Architecture,2,,,yes
+404,4.04,Environmental Design.,4,Architecture,2,,,yes
+405,4.05,Interior Architecture.,4,Architecture,2,,,yes
+406,4.06,Landscape Architecture.,4,Architecture,2,,,yes
+408,4.08,Architectural History and Criticism.,4,Architecture,2,,,yes
+409,4.09,Architectural Sciences and Technology.,4,Architecture,2,,,yes
+410,4.1,Real Estate Development.,4,Architecture,2,,,yes
+499,4.99,"Architecture and Related Services, Other.",4,Architecture,2,,,yes
+501,5.01,Area Studies.,,,0,,,yes
+502,5.02,"Ethnic, Cultural Minority, Gender, and Group Studies.",5.0207,Women's Studies,3,1,,yes
+901,9.01,Communication and Media Studies.,9.01,Media / Communications,3,1,,yes
+901,9.01,Communication and Media Studies.,9.0101,Media / Communications,3,1,,yes
+901,9.01,Communication and Media Studies.,9.0102,Media / Communications,3,1,,yes
+901,9.01,Communication and Media Studies.,9.0199,Media / Communications,3,1,,yes
+904,9.04,Journalism.,9.04,Journalism,1,,,yes
+907,9.07,"Radio, Television, and Digital Communication.",9.07,Media / Communications,1,,,yes
+909,9.09,"Public Relations, Advertising, and Applied Communication.",9.09,Media / Communications,1,,,yes
+910,9.1,Publishing.,9.1,Media / Communications,1,,,yes
+999,9.99,"Communication, Journalism, and Related Programs, Other.",9.99,Media / Communications,1,,,yes
+1001,10.01,Communications Technology/Technician.,10,Media / Communications,2,,,yes
+1002,10.02,Audiovisual Communications Technologies/Technicians.,10,Media / Communications,2,,,yes
+1003,10.03,Graphic Communications.,10,Media / Communications,2,,,yes
+1099,10.99,"Communications Technologies/Technicians and Support Services, Other.",10,Media / Communications,2,,,yes
+1101,11.01,"Computer and Information Sciences, General.",11,Computer Science,2,,,yes
+1102,11.02,Computer Programming.,11,Computer Science,2,,,yes
+1103,11.03,Data Processing.,11,Computer Science,2,,,yes
+1104,11.04,Information Science/Studies.,11,Computer Science,2,,,yes
+1105,11.05,Computer Systems Analysis.,11,Computer Science,2,,,yes
+1106,11.06,Data Entry/Microcomputer Applications.,11,Computer Science,2,,,yes
+1107,11.07,Computer Science.,11,Computer Science,2,,,yes
+1108,11.08,Computer Software and Media Applications.,11,Computer Science,2,,,yes
+1109,11.09,Computer Systems Networking and Telecommunications.,11,Computer Science,2,,,yes
+1110,11.1,Computer/Information Technology Administration and Management.,11,Computer Science,2,,,yes
+1199,11.99,"Computer and Information Sciences and Support Services, Other.",11,Computer Science,2,,,yes
+1203,12.03,Funeral Service and Mortuary Science.,,,0,,,yes
+1204,12.04,Cosmetology and Related Personal Grooming Services.,12.04,Cosmetology,1,,,yes
+1205,12.05,Culinary Arts and Related Services.,12.05,Culinary Arts,1,,,yes
+1299,12.99,"Personal and Culinary Services, Other.",,,0,,,yes
+1301,13.01,"Education, General.",13,Education,2,,,yes
+1302,13.02,"Bilingual, Multilingual, and Multicultural Education.",13,Education,2,,,yes
+1303,13.03,Curriculum and Instruction.,13,Education,2,,,yes
+1304,13.04,Educational Administration and Supervision.,13,Education,2,,,yes
+1305,13.05,Educational/Instructional Media Design.,13,Education,2,,,yes
+1306,13.06,"Educational Assessment, Evaluation, and Research.",13,Education,2,,,yes
+1307,13.07,International and Comparative Education.,13,Education,2,,,yes
+1309,13.09,Social and Philosophical Foundations of Education.,13,Education,2,,,yes
+1310,13.1,Special Education and Teaching.,13,Education,2,,,yes
+1311,13.11,Student Counseling and Personnel Services.,13,Education,2,,,yes
+1312,13.12,"Teacher Education and Professional Development, Specific Levels and Methods.",13,Education,2,,,yes
+1313,13.13,"Teacher Education and Professional Development, Specific Subject Areas.",13,Education,2,,,yes
+1314,13.14,Teaching English or French as a Second or Foreign Language.,13,Education,2,,,yes
+1315,13.15,Teaching Assistants/Aides.,13,Education,2,,,yes
+1399,13.99,"Education, Other.",13,Education,2,,,yes
+1401,14.01,"Engineering, General.",14,Engineering,2,,,yes
+1402,14.02,"Aerospace, Aeronautical and Astronautical Engineering.",14,Engineering,2,,,yes
+1403,14.03,Agricultural Engineering.,14,Engineering,2,,,yes
+1404,14.04,Architectural Engineering.,14,Engineering,2,,,yes
+1405,14.05,Biomedical/Medical Engineering.,14,Engineering,2,,,yes
+1406,14.06,Ceramic Sciences and Engineering.,14,Engineering,2,,,yes
+1407,14.07,Chemical Engineering.,14,Engineering,2,,,yes
+1408,14.08,Civil Engineering.,14,Engineering,2,,,yes
+1409,14.09,Computer Engineering.,14,Engineering,2,,,yes
+1410,14.1,"Electrical, Electronics and Communications Engineering.",14,Engineering,2,,,yes
+1411,14.11,Engineering Mechanics.,14,Engineering,2,,,yes
+1412,14.12,Engineering Physics.,14,Engineering,2,,,yes
+1413,14.13,Engineering Science.,14,Engineering,2,,,yes
+1414,14.14,Environmental/Environmental Health Engineering.,14,Engineering,2,,,yes
+1418,14.18,Materials Engineering,14,Engineering,2,,,yes
+1419,14.19,Mechanical Engineering.,14,Engineering,2,,,yes
+1420,14.2,Metallurgical Engineering.,14,Engineering,2,,,yes
+1421,14.21,Mining and Mineral Engineering.,14,Engineering,2,,,yes
+1422,14.22,Naval Architecture and Marine Engineering.,14,Engineering,2,,,yes
+1423,14.23,Nuclear Engineering.,14,Engineering,2,,,yes
+1424,14.24,Ocean Engineering.,14,Engineering,2,,,yes
+1425,14.25,Petroleum Engineering.,14,Engineering,2,,,yes
+1427,14.27,Systems Engineering.,14,Engineering,2,,,yes
+1428,14.28,Textile Sciences and Engineering.,14,Engineering,2,,,yes
+1432,14.32,Polymer/Plastics Engineering.,14,Engineering,2,,,yes
+1433,14.33,Construction Engineering.,14,Engineering,2,,,yes
+1434,14.34,Forest Engineering.,14,Engineering,2,,,yes
+1435,14.35,Industrial Engineering.,14,Engineering,2,,,yes
+1436,14.36,Manufacturing Engineering.,14,Engineering,2,,,yes
+1437,14.37,Operations Research.,14,Engineering,2,,,yes
+1438,14.38,Surveying Engineering.,14,Engineering,2,,,yes
+1439,14.39,Geological/Geophysical Engineering.,14,Engineering,2,,,yes
+1440,14.4,Paper Science and Engineering.,14,Engineering,2,,,no
+1441,14.41,Electromechanical Engineering.,14,Engineering,2,,,yes
+1442,14.42,"Mechatronics, Robotics, and Automation Engineering.",14,Engineering,2,,,yes
+1443,14.43,Biochemical Engineering.,14,Engineering,2,,,yes
+1444,14.44,Engineering Chemistry.,14,Engineering,2,,,no
+1445,14.45,Biological/Biosystems Engineering.,14,Engineering,2,,,yes
+1499,14.99,"Engineering, Other.",14,Engineering,2,,,yes
+1500,15,"Engineering Technology, General.",,,0,,,yes
+1501,15.01,Architectural Engineering Technologies/Technicians.,,,0,,,yes
+1502,15.02,Civil Engineering Technologies/Technicians.,,,0,,,yes
+1503,15.03,Electrical Engineering Technologies/Technicians.,,,0,,,yes
+1504,15.04,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,,,0,,,yes
+1505,15.05,Environmental Control Technologies/Technicians.,,,0,,,yes
+1506,15.06,Industrial Production Technologies/Technicians.,,,0,,,yes
+1507,15.07,Quality Control and Safety Technologies/Technicians.,,,0,,,yes
+1508,15.08,Mechanical Engineering Related Technologies/Technicians.,,,0,,,yes
+1509,15.09,Mining and Petroleum Technologies/Technicians.,,,0,,,yes
+1510,15.1,Construction Engineering Technologies.,,,0,,,yes
+1511,15.11,Engineering-Related Technologies.,,,0,,,yes
+1512,15.12,Computer Engineering Technologies/Technicians.,,,0,,,yes
+1513,15.13,Drafting/Design Engineering Technologies/Technicians.,,,0,,,yes
+1514,15.14,Nuclear Engineering Technologies/Technicians.,,,0,,,yes
+1515,15.15,Engineering-Related Fields.,,,0,,,yes
+1516,15.16,Nanotechnology.,,,0,,,yes
+1517,15.17,Energy Systems Technologies/Technicians.,,,0,,,yes
+1599,15.99,"Engineering Technologies/Technicians, Other.",,,0,,,yes
+1601,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",16.0102,Linguistics,3,1,,yes
+1601,16.01,"Linguistic, Comparative, and Related Language Studies and Services.",16.0105,Linguistics,3,1,,yes
+1602,16.02,"African Languages, Literatures, and Linguistics.",,,0,,,no
+1603,16.03,"East Asian Languages, Literatures, and Linguistics.",16.0301,Chinese,3,1,,yes
+1603,16.03,"East Asian Languages, Literatures, and Linguistics.",16.0302,Japanese,3,1,,yes
+1604,16.04,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",,,0,,,yes
+1605,16.05,"Germanic Languages, Literatures, and Linguistics.",16.0501,German,3,1,,yes
+1606,16.06,Modern Greek Language and Literature.,,,0,,,no
+1607,16.07,"South Asian Languages, Literatures, and Linguistics.",,,0,,,no
+1608,16.08,"Iranian/Persian Languages, Literatures, and Linguistics.",,,0,,,no
+1609,16.09,"Romance Languages, Literatures, and Linguistics.",16.0905,Spanish,3,1,,yes
+1609,16.09,"Romance Languages, Literatures, and Linguistics.",16.0901,French,3,1,,yes
+1610,16.1,"American Indian/Native American Languages, Literatures, and Linguistics.",,,0,,,no
+1611,16.11,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",16.1102,Hebrew,3,1,,yes
+1612,16.12,"Classics and Classical Languages, Literatures, and Linguistics.",16.12,Classics,1,,,yes
+1613,16.13,"Celtic Languages, Literatures, and Linguistics.",,,0,,,no
+1614,16.14,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",,,0,,,no
+1615,16.15,"Turkic, Uralic-Altaic, Caucasian, and Central Asian Languages, Literatures, and Linguistics.",,,0,,,no
+1616,16.16,American Sign Language.,16.16,Sign Language,1,,,yes
+1699,16.99,"Foreign Languages, Literatures, and Linguistics, Other.",,,0,,,yes
+1900,19,Work and Family Studies.,,,0,,,no
+1901,19.01,"Family and Consumer Sciences/Human Sciences, General.",,,0,,,yes
+1902,19.02,Family and Consumer Sciences/Human Sciences Business Services.,,,0,,,yes
+1904,19.04,Family and Consumer Economics and Related Studies.,,,0,,,yes
+1905,19.05,"Foods, Nutrition, and Related Services.",19.05,Nutrition,1,,,yes
+1906,19.06,Housing and Human Environments.,,,0,,,yes
+1907,19.07,"Human Development, Family Studies, and Related Services.",,,0,,,yes
+1909,19.09,Apparel and Textiles.,,,0,,,yes
+1910,19.1,Work and Family Studies.,,,0,,,no
+1999,19.99,"Family and Consumer Sciences/Human Sciences, Other.",,,0,,,yes
+2200,22,Non-Professional General Legal Studies (Undergraduate).,22,Law,2,,,yes
+2201,22.01,Law.,22,Law,2,,,yes
+2202,22.02,Legal Research and Advanced Professional Studies.,22,Law,2,,,yes
+2203,22.03,Legal Support Services.,22,Law,2,,,yes
+2299,22.99,"Legal Professions and Studies, Other.",22,Law,2,,,yes
+2301,23.01,"English Language and Literature, General.",23,English Literature,2,,,yes
+2305,23.05,Creative Writing.,23,English Literature,2,,,no
+2308,23.08,English Literature (British and Commonwealth).,23,English Literature,2,,,no
+2313,23.13,Rhetoric and Composition/Writing Studies.,23,English Literature,2,,,yes
+2314,23.14,Literature.,23,English Literature,2,,,yes
+2399,23.99,"English Language and Literature/Letters, Other.",23,English Literature,2,,,yes
+2401,24.01,"Liberal Arts and Sciences, General Studies and Humanities.",,,0,,,yes
+2501,25.01,Library Science and Administration.,25,Library Science,2,,,yes
+2503,25.03,Library and Archives Assisting.,25,Library Science,2,,,yes
+2599,25.99,"Library Science, Other.",25,Library Science,2,,,yes
+2601,26.01,"Biology, General.",26,Biology,2,,,yes
+2602,26.02,"Biochemistry, Biophysics and Molecular Biology.",26,Biology,2,,,yes
+2603,26.03,Botany/Plant Biology.,26,Biology,2,,,yes
+2604,26.04,Cell/Cellular Biology and Anatomical Sciences.,26,Biology,2,,,yes
+2605,26.05,Microbiological Sciences and Immunology.,26,Biology,2,,,yes
+2607,26.07,Zoology/Animal Biology.,26,Biology,2,,,yes
+2608,26.08,Genetics.,26,Biology,2,,,yes
+2609,26.09,"Physiology, Pathology and Related Sciences.",26,Biology,2,,,yes
+2610,26.1,Pharmacology and Toxicology.,26,Biology,2,,,yes
+2611,26.11,"Biomathematics, Bioinformatics, and Computational Biology.",26,Biology,2,,,yes
+2612,26.12,Biotechnology.,26,Biology,2,,,yes
+2613,26.13,"Ecology, Evolution, Systematics, and Population Biology.",26,Biology,2,,,yes
+2614,26.14,Molecular Medicine.,26,Biology,2,,,no
+2615,26.15,Neurobiology and Neurosciences.,26,Biology,2,,,yes
+2699,26.99,"Biological and Biomedical Sciences, Other.",26,Biology,2,,,yes
+2701,27.01,Mathematics.,27,Mathematics,2,,,yes
+2703,27.03,Applied Mathematics.,27,Mathematics,2,,,yes
+2705,27.05,Statistics.,27,Mathematics,2,,,yes
+2799,27.99,"Mathematics and Statistics, Other.",27,Mathematics,2,,,yes
+2801,28.01,"Air Force ROTC, Air Science and Operations.",28.01,Military Science,1,,,no
+2803,28.03,"Army ROTC, Military Science and Operations.",28.03,Military Science,1,,,no
+2805,28.05,Military Science and Operational Studies.,28.05,Military Science,1,,,no
+2806,28.06,Security Policy and Strategy.,28.06,Military Science,1,,,no
+2902,29.02,"Intelligence, Command Control and Information Operations.",29.02,Military Science,1,,,yes
+2903,29.03,Military Applied Sciences.,29,Military Science,2,,,yes
+2904,29.04,Military Systems and Maintenance Technology.,29,Military Science,2,,,yes
+2999,29.99,"Military Technologies and Applied Sciences, Other.",29,Military Science,2,,,yes
+3000,30,"Multi-/Interdisciplinary Studies, General.",,,0,,,yes
+3001,30.01,Biological and Physical Sciences.,,,0,,,yes
+3005,30.05,Peace Studies and Conflict Resolution.,,,0,,,yes
+3006,30.06,Systems Science and Theory.,,,0,,,yes
+3008,30.08,Mathematics and Computer Science.,,,0,,,yes
+3010,30.1,Biopsychology.,,,0,,,yes
+3011,30.11,Gerontology.,,,0,,,yes
+3012,30.12,Historic Preservation and Conservation.,,,0,,,yes
+3013,30.13,Medieval and Renaissance Studies.,,,0,,,no
+3014,30.14,Museology/Museum Studies.,,,0,,,yes
+3015,30.15,"Science, Technology and Society.",,,0,,,yes
+3016,30.16,Accounting and Computer Science.,,,0,,,yes
+3017,30.17,Behavioral Sciences.,,,0,,,yes
+3018,30.18,Natural Sciences.,,,0,,,yes
+3019,30.19,Nutrition Sciences.,,,0,1,Nutrition,yes
+3020,30.2,International/Global Studies.,,,0,,,yes
+3021,30.21,Holocaust and Related Studies.,,,0,,,no
+3022,30.22,Classical and Ancient Studies.,,,0,,,yes
+3023,30.23,Intercultural/Multicultural and Diversity Studies.,,,0,,,yes
+3024,30.24,Neuroscience.,,,0,,,no
+3025,30.25,Cognitive Science.,,,0,,,yes
+3026,30.26,Cultural Studies/Critical Theory and Analysis.,,,0,,,yes
+3027,30.27,Human Biology.,,,0,,,yes
+3028,30.28,Dispute Resolution.,,,0,,,yes
+3029,30.29,Maritime Studies.,,,0,,,no
+3030,30.3,Computational Science.,,,0,,,yes
+3031,30.31,Human Computer Interaction.,,,0,,,yes
+3032,30.32,Marine Sciences.,,,0,,,yes
+3033,30.33,Sustainability Studies.,,,0,,,yes
+3099,30.99,"Multi/Interdisciplinary Studies, Other.",,,0,,,yes
+3101,31.01,"Parks, Recreation and Leisure Studies.",31,Fitness and Leisure,2,,,yes
+3103,31.03,"Parks, Recreation and Leisure Facilities Management.",31,Fitness and Leisure,2,,,yes
+3105,31.05,Health and Physical Education/Fitness.,31.05,Fitness and Leisure,1,,,yes
+3106,31.06,Outdoor Education.,31,Fitness and Leisure,2,,,yes
+3199,31.99,"Parks, Recreation, Leisure, and Fitness Studies, Other.",31,Fitness and Leisure,2,,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.0101,Basic Skills,3,1,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.0104,Basic Skills,3,1,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.0108,Basic Skills,3,1,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.0109,Basic Skills,3,1,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.0199,Basic Skills,3,1,,yes
+3201,32.01,Basic Skills and Developmental/Remedial Education.,32.011,Basic Computer Skills,3,1,,yes
+3301,33.01,Citizenship Activities.,,,0,,,no
+3401,34.01,Health-Related Knowledge and Skills.,,,0,,,yes
+3501,35.01,Interpersonal and Social Skills.,,,0,,,no
+3601,36.01,Leisure and Recreational Activities.,36,Fitness and Leisure,2,,,yes
+3602,36.02,Noncommercial Vehicle Operation.,36,Fitness and Leisure,2,,,no
+3701,37.01,Personal Awareness and Self-Improvement.,,,0,,,yes
+3800,38,"Philosophy and Religious Studies, General.",,,0,,,yes
+3801,38.01,Philosophy.,38.01,Philosophy,1,,,yes
+3802,38.02,Religion/Religious Studies.,38.02,Religion,1,,,yes
+3899,38.99,"Philosophy and Religious Studies, Other.",,,0,,,yes
+3902,39.02,Bible/Biblical Studies.,39,Theology,2,,,yes
+3903,39.03,Missions/Missionary Studies and Missiology.,39,Theology,2,,,yes
+3904,39.04,Religious Education.,39,Theology,2,,,yes
+3905,39.05,Religious/Sacred Music.,39,Theology,2,,,yes
+3906,39.06,Theological and Ministerial Studies.,39,Theology,2,,,yes
+3907,39.07,Pastoral Counseling and Specialized Ministries.,39,Theology,2,,,yes
+3999,39.99,"Theology and Religious Vocations, Other.",39,Theology,2,,,yes
+4001,40.01,Physical Sciences.,,,0,,,yes
+4002,40.02,Astronomy and Astrophysics.,40.02,Astronomy,1,,,yes
+4004,40.04,Atmospheric Sciences and Meteorology.,40.04,Atmospheric Sciences,1,,,yes
+4005,40.05,Chemistry.,40.05,Chemistry,1,,,yes
+4006,40.06,Geological and Earth Sciences/Geosciences.,40.06,Earth Sciences,1,,,yes
+4008,40.08,Physics.,40.08,Physics,1,,,yes
+4010,40.1,Materials Sciences.,,,0,,,yes
+4099,40.99,"Physical Sciences, Other.",,,0,,,yes
+4100,41,"Science Technologies/Technicians, General.",,,0,,,yes
+4101,41.01,Biology Technician/Biotechnology Laboratory Technician.,,,0,,,yes
+4102,41.02,Nuclear and Industrial Radiologic Technologies/Technicians.,,,0,,,yes
+4103,41.03,Physical Science Technologies/Technicians.,,,0,,,yes
+4199,41.99,"Science Technologies/Technicians, Other.",,,0,,,yes
+4201,42.01,"Psychology, General.",42,Psychology,2,,,yes
+4202,42.02,Clinical Psychology.,42,Psychology,2,,,no
+4203,42.03,Cognitive Psychology and Psycholinguistics.,42,Psychology,2,,,no
+4204,42.04,Community Psychology.,42,Psychology,2,,,no
+4207,42.07,Developmental and Child Psychology.,42,Psychology,2,,,no
+4216,42.16,Social Psychology.,42,Psychology,2,,,no
+4227,42.27,Research and Experimental Psychology.,42,Psychology,2,,,yes
+4228,42.28,"Clinical, Counseling and Applied Psychology.",42,Psychology,2,,,yes
+4299,42.99,"Psychology, Other.",42,Psychology,2,,,yes
+4301,43.01,Criminal Justice and Corrections.,43.01,Criminal Justice,1,,,yes
+4302,43.02,Fire Protection.,43.02,Public Safety,1,,,yes
+4303,43.03,Homeland Security.,43.03,Public Safety,1,,,yes
+4304,43.04,Security Science and Technology.,,,0,,,yes
+4399,43.99,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",43.99,Public Safety,1,,,yes
+4400,44,"Human Services, General.",,,0,,,yes
+4402,44.02,Community Organization and Advocacy.,,,0,,,yes
+4404,44.04,Public Administration.,,,0,,,yes
+4405,44.05,Public Policy Analysis.,,,0,,,yes
+4407,44.07,Social Work.,44.07,Social Work,1,,,yes
+4499,44.99,"Public Administration and Social Service Professions, Other.",,,0,,,yes
+4501,45.01,"Social Sciences, General.",,,0,,,yes
+4502,45.02,Anthropology.,45.02,Anthropology,1,,,yes
+4503,45.03,Archeology.,,,0,,,yes
+4504,45.04,Criminology.,,,0,,,yes
+4505,45.05,Demography and Population Studies.,,,0,,,yes
+4506,45.06,Economics.,45.06,Economics,1,,,yes
+4507,45.07,Geography and Cartography.,45.07,Geography,1,,,yes
+4509,45.09,International Relations and National Security Studies.,45.09,Political Science,1,,,yes
+4510,45.1,Political Science and Government.,45.1,Political Science,1,,,yes
+4511,45.11,Sociology.,45.11,Sociology,1,,,yes
+4512,45.12,Urban Studies/Affairs.,,,0,,,yes
+4513,45.13,Sociology and Anthropology.,,,0,,,yes
+4514,45.14,Rural Sociology.,45.14,Sociology,1,,,yes
+4599,45.99,"Social Sciences, Other.",,,0,,,yes
+4600,46,"Construction Trades, General.",,,0,,,yes
+4601,46.01,Mason/Masonry.,,,0,,,yes
+4602,46.02,Carpenters.,,,0,,,yes
+4603,46.03,Electrical and Power Transmission Installers.,,,0,,,yes
+4604,46.04,"Building/Construction Finishing, Management, and Inspection.",,,0,,,yes
+4605,46.05,Plumbing and Related Water Supply Services.,,,0,,,yes
+4699,46.99,"Construction Trades, Other.",,,0,,,yes
+4700,47,"Mechanics and Repairers, General.",47,Mechanic / Repair Tech,2,,,yes
+4701,47.01,Electrical/Electronics Maintenance and Repair Technology.,47,Mechanic / Repair Tech,2,,,yes
+4702,47.02,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",47,Mechanic / Repair Tech,2,,,yes
+4703,47.03,Heavy/Industrial Equipment Maintenance Technologies.,47,Mechanic / Repair Tech,2,,,yes
+4704,47.04,Precision Systems Maintenance and Repair Technologies.,47,Mechanic / Repair Tech,2,,,yes
+4706,47.06,Vehicle Maintenance and Repair Technologies.,47,Mechanic / Repair Tech,2,,,yes
+4799,47.99,"Mechanic and Repair Technologies/Technicians, Other.",47,Mechanic / Repair Tech,2,,,yes
+4800,48,"Precision Production Trades, General.",,,0,,,no
+4803,48.03,Leatherworking and Upholstery.,,,0,,,no
+4805,48.05,Precision Metal Working.,,,0,,,yes
+4807,48.07,Woodworking.,,,0,,,yes
+4808,48.08,Boilermaking/Boilermaker.,,,0,,,no
+4899,48.99,"Precision Production, Other.",,,0,,,yes
+4901,49.01,Air Transportation.,49,Transportation,2,,,yes
+4902,49.02,Ground Transportation.,49,Transportation,2,,,yes
+4903,49.03,Marine Transportation.,49,Transportation,2,,,yes
+4999,49.99,"Transportation and Materials Moving, Other.",49,Transportation,2,,,yes
+5001,50.01,"Visual and Performing Arts, General.",,,0,,,yes
+5002,50.02,"Crafts/Craft Design, Folk Art and Artisanry.",,,0,,,yes
+5003,50.03,Dance.,50.03,Dance,1,,,yes
+5004,50.04,Design and Applied Arts.,,,0,,,yes
+5005,50.05,Drama/Theatre Arts and Stagecraft.,50.05,Theatre Arts,1,,,yes
+5006,50.06,Film/Video and Photographic Arts.,50.06,Film and Photography,1,,,yes
+5007,50.07,Fine and Studio Arts.,50.07,Fine Arts,1,,,yes
+5009,50.09,Music.,50.09,Music,1,,,yes
+5010,50.1,"Arts, Entertainment,and Media Management.",,,0,,,yes
+5099,50.99,"Visual and Performing Arts, Other.",,,0,,,yes
+5100,51,"Health Services/Allied Health/Health Sciences, General.",51,Medicine,1,,,yes
+5101,51.01,Chiropractic.,51.01,Medicine,1,,,yes
+5102,51.02,Communication Disorders Sciences and Services.,51.02,Medicine,1,,,yes
+5104,51.04,Dentistry.,51.04,Dentistry,1,,,yes
+5105,51.05,Advanced/Graduate Dentistry and Oral Sciences.,51.05,Dentistry,1,,,yes
+5106,51.06,Dental Support Services and Allied Professions.,51.06,Dentistry,1,,,yes
+5107,51.07,Health and Medical Administrative Services.,51.07,Medicine,1,,,yes
+5108,51.08,Allied Health and Medical Assisting Services.,51.08,Medicine,1,,,yes
+5109,51.09,"Allied Health Diagnostic, Intervention, and Treatment Professions.",51.09,Health Technician,1,,,yes
+5110,51.1,Clinical/Medical Laboratory Science/Research and Allied Professions.,51.1,Medicine,1,,,yes
+5111,51.11,Health/Medical Preparatory Programs.,51.11,Medicine,1,,,yes
+5112,51.12,Medicine.,51.12,Medicine,1,,,yes
+5114,51.14,Medical Clinical Sciences/Graduate Medical Studies.,51.14,Medicine,1,,,yes
+5115,51.15,Mental and Social Health Services and Allied Professions.,51.15,Medicine,1,,,yes
+5116,51.16,Nursing.,,,0,1,Nursing,yes
+5117,51.17,Optometry.,51.17,Medicine,1,,,yes
+5118,51.18,Ophthalmic and Optometric Support Services and Allied Professions.,51.18,Medicine,1,,,yes
+5119,51.19,Osteopathic Medicine/Osteopathy.,51.19,Medicine,1,,,yes
+5120,51.2,"Pharmacy, Pharmaceutical Sciences, and Administration.",51.2,Medicine,1,,,yes
+5121,51.21,Podiatric Medicine/Podiatry.,51.21,Medicine,1,,,yes
+5122,51.22,Public Health.,51.22,Medicine,1,,,yes
+5123,51.23,Rehabilitation and Therapeutic Professions.,51.23,Medicine,1,,,yes
+5124,51.24,Veterinary Medicine.,51.24,Veterinary Medicine,1,,,yes
+5125,51.25,Veterinary Biomedical and Clinical Sciences.,51.25,Veterinary Medicine,1,,,yes
+5126,51.26,Health Aides/Attendants/Orderlies.,51.26,Medicine,1,,,yes
+5127,51.27,Medical Illustration and Informatics.,51.27,Medicine,1,,,yes
+5131,51.31,Dietetics and Clinical Nutrition Services.,51.31,Medicine,1,,,yes
+5132,51.32,Bioethics/Medical Ethics.,51.32,Medicine,1,,,yes
+5133,51.33,Alternative and Complementary Medicine and Medical Systems.,51.33,Medicine,1,,,yes
+5134,51.34,Alternative and Complementary Medical Support Services.,51.34,Medicine,1,,,yes
+5135,51.35,Somatic Bodywork and Related Therapeutic Services.,51.35,Medicine,1,,,yes
+5136,51.36,Movement and Mind-Body Therapies and Education.,51.36,Medicine,1,,,yes
+5137,51.37,Energy and Biologically Based Therapies.,51.37,Medicine,1,,,yes
+5138,51.38,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",51.38,Nursing,1,,,yes
+5139,51.39,"Practical Nursing, Vocational Nursing and Nursing Assistants.",51.39,Nursing,1,,,yes
+5199,51.99,"Health Professions and Related Clinical Sciences, Other.",51.99,Medicine,1,,,yes
+5201,52.01,"Business/Commerce, General.",52.01,Business,1,,,yes
+5202,52.02,"Business Administration, Management and Operations.",52.02,Business,1,,,yes
+5203,52.03,Accounting and Related Services.,52.03,Accounting,1,,,yes
+5204,52.04,Business Operations Support and Assistant Services.,52.04,Business,1,,,yes
+5205,52.05,Business/Corporate Communications.,52.05,Business,1,,,yes
+5206,52.06,Business/Managerial Economics.,52.06,Business,1,,,yes
+5207,52.07,Entrepreneurial and Small Business Operations.,52.07,Business,1,,,yes
+5208,52.08,Finance and Financial Management Services.,52.08,Business,1,,,yes
+5209,52.09,Hospitality Administration/Management.,52.09,Business,1,,,yes
+5210,52.1,Human Resources Management and Services.,52.1,Business,1,,,yes
+5211,52.11,International Business.,52.11,Business,1,,,yes
+5212,52.12,Management Information Systems and Services.,52.12,Business,1,,,yes
+5213,52.13,Management Sciences and Quantitative Methods.,52.13,Business,1,,,yes
+5214,52.14,Marketing.,52.14,Marketing,1,,,yes
+5215,52.15,Real Estate.,52.15,Business,1,,,yes
+5216,52.16,Taxation.,52.16,Business,1,,,yes
+5217,52.17,Insurance.,52.17,Business,1,,,yes
+5218,52.18,"General Sales, Merchandising and Related Marketing Operations.",52.18,Business,1,,,yes
+5219,52.19,"Specialized Sales, Merchandising and  Marketing Operations.",52.19,Business,1,,,yes
+5220,52.2,Construction Management.,52.2,Business,1,,,yes
+5221,52.21,Telecommunications Management.,52.21,Business,1,,,no
+5299,52.99,"Business, Management, Marketing, and Related Support Services, Other.",52.99,Business,1,,,yes
+5301,53.01,High School/Secondary Diploma Programs.,53,Basic Skills,2,,,yes
+5302,53.02,High School/Secondary Certificate Programs.,53,Basic Skills,2,,,no
+5401,54.01,History.,54,History,2,,,yes
+6001,60.01,Dental Residency Programs.,,,0,,,yes
+6002,60.02,Medical Residency Programs.,,,0,,,no
+6003,60.03,Veterinary Residency Programs.,,,0,,,no
+6004,60.04,Medical Residency Programs - General Certificates.,,,0,,,yes
+6005,60.05,Medical Residency Programs - Subspecialty Certificates.,,,0,,,no
+6108,61.08,Internal Medicine Residency/Fellowship Programs.,,,0,,,no
+6115,61.15,Orthopedic Surgery Residency/Fellowship Programs.,,,0,,,no
+6124,61.24,Psychiatry Residency/Fellowship Programs.,,,0,,,no
+6126,61.26,Radiology Residency/Fellowship Programs.,,,0,,,yes
+,,,28,Military Science,0,,,yes
+,,,28.04,Military Science,0,,,yes
