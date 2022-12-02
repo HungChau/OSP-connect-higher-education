@@ -1,0 +1,185 @@
+Field-of-Study,Detailed Work Activity,Coefficient,P-value
+Business,advise others on career or personal development.,1.647,0.00957
+Business,complete documentation required by programs or regulations.,1.805,0.00238
+Business,conduct health or safety training programs.,-2.674,5.00E-05
+Business,direct criminal investigations.,-2.175,0.00546
+Business,evaluate program effectiveness.,2.392,2.00E-05
+Business,explain project details to the general public.,-1.62,0.01865
+Business,explain use of products or services.,-1.702,0.0421
+Business,position construction forms or molds.,2.434,0.04461
+Business,research methods to improve food products.,1.514,0.01467
+Business,review laws or regulations to maintain professional knowledge.,-1.25,0.04926
+Business,advise others on analytical techniques.,1.057,0.10011
+Business,advise students on academic or career matters.,0.926,0.11984
+Business,analyze logistics processes.,-0.743,0.30538
+Business,apply paint to surfaces.,-0.957,0.15981
+Business,"calculate weights, volumes or other characteristics of materials.",-0.909,0.33888
+Business,coach others.,1.025,0.26945
+Business,collaborate with other professionals to assess client needs or plan treatments.,0.061,0.94429
+Business,collaborate with others to prepare or perform artistic productions.,-0.534,0.4926
+Business,collaborate with others to resolve information technology issues.,-0.376,0.61088
+Business,collect data about customer needs.,-0.634,0.50403
+Business,compile data or documentation.,1.115,0.31364
+Business,coordinate flight control or management activities.,-0.832,0.48336
+Business,correspond with customers to answer questions or resolve complaints.,1.264,0.1399
+Business,counsel family members of clients or patients.,1.531,0.12512
+Business,"cultivate micro-organisms for study, testing, or medical preparations.",-0.974,0.23635
+Business,determine appropriate locations for operations or installations.,0.116,0.90884
+Business,determine geographic coordinates.,-0.828,0.274
+Business,determine operational criteria or specifications.,-0.402,0.57141
+Business,develop diagrams or flow charts of system operation.,-0.599,0.44878
+Business,develop procedures for data entry or processing.,0.704,0.43369
+Business,direct emergency management activities.,0.178,0.90067
+Business,direct energy production or management activities.,-0.826,0.48314
+Business,direct natural resources management or conservation programs.,-0.092,0.91723
+Business,discuss service options or needs with clients.,0.909,0.27376
+Business,document design or development procedures.,-0.988,0.21252
+Business,draw detailed or technical illustrations.,-1.413,0.12206
+Business,examine characteristics or behavior of living organisms.,0.797,0.33871
+Business,explain technical medical information to patients.,-0.408,0.61566
+Business,identify strategic business investment opportunities.,0.034,0.94734
+Business,investigate crimes committed within organizations.,-0.629,0.31338
+Business,maintain client information or service records.,1.224,0.07741
+Business,manage construction activities.,0.83,0.43432
+Business,manage environmental sustainability projects.,1.125,0.18206
+Business,manage guest services.,0.615,0.5594
+Business,measure environmental characteristics.,-1.099,0.22564
+Business,operate conveyors or other industrial material moving equipment.,1.486,0.08802
+Business,prepare data for analysis.,-0.18,0.84025
+Business,prepare reports related to compliance matters.,-0.079,0.92644
+Business,record images needed to address work issues.,-0.406,0.42088
+Business,remove excess materials from finished construction projects.,-1.09,0.26663
+Business,report news to the public.,-0.658,0.23607
+Business,rescue people from hazardous situations.,-0.088,0.90451
+Business,research human performance or health factors related to engineering or design activities.,1.38,0.05104
+Business,supervise workers providing client or patient services.,1.098,0.30122
+Business,test computer system operations to ensure proper functioning.,-1.117,0.3051
+Business,test patient nervous system functioning.,-0.883,0.33904
+Business,update technical knowledge.,-0.225,0.6493
+Computer Science,"estimate labor or resource requirements for forestry, fishing, or agricultural operations.",-1.509,0.0367
+Computer Science,explain technical medical information to patients.,-1.536,0.0097
+Computer Science,design psychological or educational treatment procedures or programs.,0.064,0.90945
+Computer Science,determine forestry techniques or methods.,-0.533,0.27379
+Computer Science,develop computer or information systems.,0.492,0.27406
+Computer Science,develop diagrams or flow charts of system operation.,-0.439,0.55361
+Computer Science,develop educational programs.,-0.761,0.09133
+Computer Science,develop guidelines for system implementation.,-0.846,0.25212
+Computer Science,develop information communication procedures.,-0.127,0.87297
+Computer Science,develop procedures for data management.,0.275,0.59015
+Computer Science,direct emergency management activities.,-0.45,0.44353
+Computer Science,present social services program information to the public.,-0.336,0.48705
+Computer Science,update technical knowledge.,-0.685,0.18485
+Biology,coordinate personnel recruitment activities.,-2.101,0.00095
+Biology,direct technical activities or operations.,-1.714,0.0174
+Biology,plant greenery to improve landscape appearance.,-2.294,0
+Biology,prepare outgoing mail.,1.898,0.04589
+Biology,test characteristics of materials or structures.,0.906,0.03263
+Biology,communicate results of environmental research.,-0.604,0.14597
+Biology,counsel clients or patients with substance abuse issues.,0.51,0.17785
+Biology,estimate technical or resource requirements for development or production projects.,-0.44,0.34957
+Biology,examine crime scenes to obtain evidence.,-0.036,0.9358
+Biology,inspect structural components of vehicles to identify problems.,0.629,0.1954
+Biology,interpret research or operational data.,-0.042,0.91869
+Biology,maintain laboratory or technical equipment.,0.251,0.5518
+Biology,monitor animal behavior or condition.,0.832,0.06736
+Biology,prepare biological samples for testing or analysis.,0.424,0.29371
+Biology,"prepare contracts, disclosures, or applications.",1.074,0.22498
+Biology,relay information about incidents or emergencies to personnel using phones or two-way radios.,-0.599,0.07919
+Psychology,diagnose neural or psychological disorders.,0.635,0.04753
+Psychology,distribute instructional or library materials.,1.213,0.03618
+Psychology,"evaluate patient functioning, capabilities, or health.",1.931,0.00049
+Psychology,plan menu options.,1.621,0.01161
+Psychology,refer clients to community or social service programs.,-0.973,0.01262
+Psychology,select resources needed to accomplish tasks.,-1.44,0.03091
+Psychology,advise others on the development or use of new technologies.,0.196,0.64421
+Psychology,communicate with management or other staff to resolve problems.,-0.832,0.13891
+Psychology,confer with family members to discuss client treatment plans or progress.,-0.684,0.1213
+Psychology,design costumes or cosmetic effects for characters.,0.402,0.45381
+Psychology,develop content for sales presentations or other materials.,0.347,0.62503
+Psychology,develop technical methods or processes.,-0.567,0.3591
+Psychology,establish treatment goals.,0.044,0.92241
+Psychology,"estimate labor or resource requirements for forestry, fishing, or agricultural operations.",-0.451,0.3535
+Psychology,explain medical procedures or test results to patients or family members.,-0.389,0.49644
+Psychology,instruct patients in the use of assistive equipment.,0.418,0.52099
+Psychology,manage content of broadcasts or presentations.,0.329,0.60656
+Psychology,provide customer service to clients or users.,0.532,0.57221
+Psychology,provide notifications to customers or patrons.,-0.648,0.49326
+Psychology,refer customers to appropriate personnel.,-0.654,0.32641
+Psychology,schedule medical facility use.,-0.051,0.92108
+Psychology,test green technologies or processes.,-0.243,0.64429
+Psychology,time vehicle speed or traffic-control equipment operation.,0.862,0.1709
+Psychology,"train patients, family members, or caregivers in techniques for managing disabilities or illnesses.",-0.144,0.78322
+Mathematics,conduct diagnostic tests to determine patient health.,-0.869,0.04136
+Mathematics,schedule activities or facility use.,-0.965,0.03244
+Mathematics,teach online courses.,-1.019,0.02433
+Mathematics,"apply finishes to artwork, crafts, or displays.",-0.619,0.31382
+Mathematics,apply mathematical models of financial or business conditions.,-0.162,0.81891
+Mathematics,determine appropriate methods for data analysis.,0.803,0.06562
+Mathematics,develop financial analysis methods.,0.936,0.05519
+Mathematics,develop scientific or mathematical models.,-0.96,0.09574
+Mathematics,evaluate student work.,0.078,0.84973
+English Literature,adjust routes or speeds as necessary.,-1.504,0.021
+English Literature,design energy production or management equipment or systems.,1.875,0.01623
+English Literature,communicate with government agencies.,-0.169,0.86211
+English Literature,communicate with others to coordinate vehicle movement.,1.639,0.1396
+English Literature,complete documentation required by programs or regulations.,-0.024,0.97018
+English Literature,"develop educational goals, standards, policies, or procedures.",-1.019,0.07107
+English Literature,estimate green project costs.,0.307,0.50295
+English Literature,evaluate environmental or sustainability projects.,0.164,0.83125
+English Literature,evaluate skills of athletes or performers.,0.276,0.57053
+English Literature,evaluate student work.,-0.082,0.89536
+English Literature,"inform the public about policies, services or procedures.",-1.534,0.05548
+English Literature,install audio or communications equipment.,0.885,0.16717
+English Literature,record images needed to address work issues.,-0.557,0.33625
+English Literature,teach medical procedures or medical equipment use to patients.,-0.387,0.5038
+English Literature,tutor students who need extra assistance.,-0.94,0.12877
+Political Science,advise others on social or educational issues.,-0.696,0.30281
+Political Science,communicate with government agencies.,-0.666,0.10447
+Political Science,develop instructional objectives.,-0.638,0.23697
+Political Science,evaluate information related to legal matters in public or personal records.,0.195,0.7621
+Political Science,meet with individuals involved in legal processes to provide information and clarify issues.,-1.118,0.09754
+Political Science,test fluids to identify contamination or other problems.,-0.535,0.31623
+Political Science,train staff members in social services skills.,-0.941,0.16194
+Education,design integrated computer systems.,1.024,0.02689
+Education,teach social science courses at the college level.,0.526,0.02646
+Education,document lesson plans.,0.525,0.30532
+Education,evaluate skills of athletes or performers.,-0.298,0.27613
+Education,explain medical procedures or test results to patients or family members.,-0.958,0.07641
+Education,monitor health or behavior of people or animals.,-0.323,0.43112
+Education,plan experiential learning activities.,0.235,0.59476
+Education,review art or design materials.,0.106,0.82467
+Media / Communications,confer with managers to make operational decisions.,1.911,0.00424
+Media / Communications,review art or design materials.,1.137,0.02602
+Media / Communications,serve on institutional or departmental committees.,1.751,0.00426
+Media / Communications,calculate financial data.,-0.414,0.67913
+Media / Communications,clean work sites.,0.255,0.72654
+Media / Communications,develop health assessment methods or programs.,-0.213,0.61247
+Media / Communications,develop information communication procedures.,-0.365,0.19673
+Media / Communications,develop patient therapy programs.,-0.873,0.19609
+Media / Communications,evaluate capabilities or training needs.,-0.69,0.21264
+Media / Communications,examine medical instruments or equipment to ensure proper operation.,-0.698,0.20785
+Media / Communications,prepare detailed work plans.,0.367,0.55343
+Media / Communications,review technical documents to plan work.,0.008,0.99152
+Media / Communications,verify accuracy of financial information.,0.959,0.1366
+Accounting,advise others on career or personal development.,3.863,0
+Accounting,"develop artistic or design concepts for decoration, exhibition, or commercial purposes.",-1.803,0.00111
+Accounting,make decisions in legal cases.,1.35,0.02197
+Accounting,participate in staffing decisions.,1.664,0.03567
+Accounting,process animal carcasses.,-1.113,0.02748
+Accounting,promote educational institutions or programs.,-1.738,0.01258
+Accounting,promote environmental sustainability or conservation initiatives.,-2.167,0.03087
+Accounting,"advise educators on curricula, instructional methods, or policies.",-0.607,0.33661
+Accounting,advise others on analytical techniques.,-0.589,0.30763
+Accounting,analyze test or performance data to assess equipment operation.,0.452,0.20472
+Accounting,code data or other information.,0.489,0.48115
+Accounting,conduct health or safety training programs.,-0.763,0.32869
+Accounting,coordinate reporting or editing activities.,-0.304,0.58796
+Accounting,direct employee training programs.,1.031,0.19508
+Accounting,direct natural resources extraction projects.,-1.125,0.1363
+Accounting,engage patients in exercises or activities.,-0.932,0.21189
+Accounting,enter codes or other information into computers.,0.454,0.62753
+Accounting,implement therapeutic programs to improve patient functioning.,0.989,0.24154
+Accounting,measure effectiveness of business strategies or practices.,-0.174,0.75357
+Accounting,schedule patient procedures or appointments.,0.394,0.55395
+Accounting,test computer system operations to ensure proper functioning.,-0.188,0.75274
+Accounting,write computer programming code.,0.308,0.52052
