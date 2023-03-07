@@ -2,7 +2,7 @@
 
 ## Cite
 If you use the data please cite the following paper:
-> Chau, H., Bana, S., Bouvier, B., Frank, M.: Connecting Higher Education to Workplace Activities and Earnings.
+> Chau, H., Bana, S., Bouvier, B., Frank, M.: Connecting Higher Education to Workplace Activities and Earnings. PLOS ONE 2023.
 ```
 @article{Chau2022ConnectHighEd,
   author    = {Hung Chau and
