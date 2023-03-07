@@ -10,6 +10,7 @@ If you use the data please cite the following paper:
                Baptiste Bouvier and
                Morgan R. Frank},
   title     = {Connecting Higher Education to Workplace Activities and Earnings},
-  year      = {2022},
+  year      = {2023},
+  journal   = {PLOS ONE}
 }
 ```
